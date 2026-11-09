@@ -1,0 +1,8 @@
+# Derleme çıktıları (exe Releases'ta yayınlanır, depoda tutulmaz)
+SoftBright.exe
+app.ico
+*.pdb
+
+# Geçici dosyalar
+*.log
+Thumbs.db
