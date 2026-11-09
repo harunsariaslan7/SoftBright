@@ -1,7 +1,9 @@
+<p align="center"><img src="docs/logo.png" width="96" alt="SoftBright logo"></p>
+
 # SoftBright
 
 [![Download](https://img.shields.io/github/v/release/harunsariaslan7/SoftBright?label=Download&style=for-the-badge&color=2ea44f)](https://github.com/harunsariaslan7/SoftBright/releases/latest)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/KULLANICI_ADI)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/harunsariaslan)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 **Brightness control for monitors that ignore DDC/CI**, such as the Samsung Odyssey OLED G8 (G85SB).
@@ -87,7 +89,7 @@ Produces `SoftBright.exe` (and `app.ico`, which is only embedded into the exe).
 
 ## Support
 
-If SoftBright is useful to you, you can buy me a coffee: **[buymeacoffee.com/KULLANICI_ADI](https://buymeacoffee.com/KULLANICI_ADI)** ☕
+If SoftBright is useful to you, you can buy me a coffee: **[buymeacoffee.com/harunsariaslan](https://buymeacoffee.com/harunsariaslan)** ☕
 
 ---
 
@@ -117,4 +119,4 @@ simgeleri altında `SoftBright.exe` anahtarını bir kez açın; ayar kalıcıd�
 mi diye kontrol eder. Kayıt defterinde yalnızca kendi tepsi simgesi girdisine ve (siz açarsanız) açılışta
 başlatma anahtarına yazar. Tek kaynak dosyadan Windows'un kendi derleyicisiyle derlenir.
 
-**Destek:** [buymeacoffee.com/KULLANICI_ADI](https://buymeacoffee.com/KULLANICI_ADI) ☕
+**Destek:** [buymeacoffee.com/harunsariaslan](https://buymeacoffee.com/harunsariaslan) ☕

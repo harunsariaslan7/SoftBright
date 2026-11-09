@@ -143,7 +143,7 @@ namespace SoftBright
 
     static class Settings
     {
-        public const string DonateUrl = "https://buymeacoffee.com/KULLANICI_ADI";
+        public const string DonateUrl = "https://buymeacoffee.com/harunsariaslan";
         public const string ProjectUrl = "https://github.com/harunsariaslan7/SoftBright";
         public const int MinLevel = 5;
         public static int Level = 100;
